@@ -31,3 +31,7 @@
 .txt-sm {
     font: var(--tex-sm);
 }
+
+gap-32 {
+    gap: 32px;
+}
